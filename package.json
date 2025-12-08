@@ -1,5 +1,5 @@
 {
-  "name": "interzept-environment-selector",
+  "name": "@interzept/interzept-environment-selector",
   "version": "1.1.0",
   "description": "Multi-environment data source selector with feature flags and production safety",
   "main": "./dist/index.js",
@@ -69,6 +69,7 @@
   },
   "homepage": "https://github.com/interzept/interzept-environment-selector#readme",
   "license": "MIT",
+  "author": "Omolade Odetara",
   "engines": {
     "node": ">=18.0.0"
   }
